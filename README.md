@@ -1,6 +1,6 @@
 # figletsbot
 
-Repo of the [figletsbot](https://telegram.me/cowsaysbot).
+Repo of the [figletsbot](https://telegram.me/figletsbot).
 
 Licensed under GPLv3.
 
