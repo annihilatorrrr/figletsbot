@@ -1,6 +1,6 @@
-# figletsbot
+# composer.json
 
-Repo of the [figletsbot](https://telegram.me/figletsbot).
+Repo of the [composer.json](https://telegram.me/composer.json).
 
 Licensed under GPLv3.
 
